@@ -21,9 +21,7 @@ class BlueContainer extends StatelessWidget {
 }
 
 class OrangeContainer extends StatelessWidget {
-  const OrangeContainer({
-    super.key,
-  });
+  const OrangeContainer({super.key});
 
   @override
   Widget build(BuildContext context) {
